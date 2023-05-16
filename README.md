@@ -42,7 +42,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=heldermartins4&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=heldermartins4&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heldermartins4&locale=en&hide_title=true&layout=default &card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=heldermartins4&show_icons=false&theme=dark" height="140" alt="languages graph"  />
 </div>
 
 ###
