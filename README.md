@@ -4,7 +4,7 @@
 
 <p align="right">My website | Portfólio > <a href="https://heldermartins.vercel.app"> 🥺Click on me</a></p>
 
-<p align="left">📍 | 🇧🇷 Santa Catarina, Videira<br>📚 | Student of the Science Computer<br>🧑‍🎓| Graduated in System Development Technician</p>
+<p align="left">📍 | 🇧🇷 Santa Catarina, Videira<br>📚 | Student of the Science Computer<br>🎓 | Graduated in System Development Technician</p>
 
 ###
 
