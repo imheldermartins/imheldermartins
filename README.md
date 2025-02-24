@@ -1,11 +1,21 @@
-<h1 align="center">&lt;This is my world. My ideas. My dreams.&gt;</h1>
-<h3 align="center">And you are my guest.</h3>
+<h1 align="center">&lt;Fullstack | ++XP on Front-end&gt;</h1>
+<ul>
+  <li>Javascript | Typescript | Node.js | Next.js or Vite | Expo and React-Native</li>
+  <ul>
+    <li>Express | Fastify</li>
+    <li>MUI | Styled-components | TailwindCSS | shadcnui</li>
+  </ul>
+  <li>Python | Django</li>
+  <li>MySQL | Postgres | MongoDB</li>
+</ul>
 
-###
+Visit my website clicking right here <a href="https://heldermartins.vercel.app">:)</a>
 
-<p align="right">My website | Portfólio > <a href="https://heldermartins.vercel.app"> 👉Click on me</a></p>
+<p align="left">📍 | 🇧🇷 Santa Catarina, Blumenau<br>📚 | Student of the Science Computer<br>🎓 | Graduated in System Development Technician</p>
 
-<p align="left">📍 | 🇧🇷 Santa Catarina, Videira<br>📚 | Student of the Science Computer<br>🎓 | Graduated in System Development Technician</p>
+<!-- <ul>
+  <li>Me thinking about <b>Cub's</b></li>
+</ul> -->
 
 ###
 
